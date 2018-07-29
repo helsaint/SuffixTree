@@ -1,4 +1,4 @@
-# SuffixTree
+# SuffixTrie
 
 
 The code here is just work on understanding how a Trie works with a focus on solving
